@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prachi Prajapati
 
 <img src="https://img.shields.io/badge/Data%20Analyst-Portfolio-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-Analytics-yellow?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Python-Analytics-lightblue?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi" />
 
 ## 📊 Data Analytics Portfolio
@@ -106,14 +106,7 @@ I am passionate about transforming raw data into meaningful insights through dat
 
 ---
 
-## 🌦️ Weather Application | React.js
 
-🔗 **Tools:** React.js | API Integration | Material UI
-
-**Description:**
-- Built a weather application using React.
-- Integrated weather API to fetch real-time weather information.
-- Designed responsive UI components.
 
 ---
 
