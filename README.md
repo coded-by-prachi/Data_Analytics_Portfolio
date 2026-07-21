@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prachi Prajapati
 
 <img src="https://img.shields.io/badge/Data%20Analyst-Portfolio-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-Analytics-yellow?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Python-Analytics-lightgreen?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi" />
 
 ## 📊 Data Analytics Portfolio
