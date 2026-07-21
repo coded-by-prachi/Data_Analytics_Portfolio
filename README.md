@@ -1,100 +1,112 @@
-# 📊 Data Analytics Portfolio
+# 👋 Hi, I'm Prachi Prajapati
+
+<img src="https://img.shields.io/badge/Data%20Analyst-Portfolio-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-Analytics-yellow?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi" />
+
+## 📊 Data Analytics Portfolio
+
+Welcome to my Data Analytics Portfolio!  
+This repository showcases my projects in **Python, SQL, Excel, Power BI, and Data Visualization**.
+
+I am passionate about transforming raw data into meaningful insights through data cleaning, analysis, and visualization.
+
+---
+
+## 🌐 Live Portfolio Website
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-Portfolio-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql" />
+  <a href="https://coded-by-prachi.github.io/Data_Analytics_Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-## 👋 About Me
+# 🛠️ Technical Skills
 
-I'm **Prachi Prajapati**, a **Data Analytics enthusiast and aspiring Data Analyst** passionate about transforming raw data into meaningful insights. I work with **Python, SQL, Excel, and Power BI** to clean, analyze, and visualize data while building impactful dashboards and analytical solutions.
-I work with **Python, SQL, Excel, and Power BI** to clean, analyze, visualize, and communicate data-driven insights.
+<table>
+<tr>
+<td>
 
-🌐 **Portfolio Website**
-
-🔗 https://coded-by-prachi.github.io/Data_Analytics_Portfolio/
-
----
-
-# 🛠️ Skills & Tools
-
-### 📌 Programming Languages
+### 📌 Programming
 - Python
 - SQL (MySQL)
+- C++
 
-### 📊 Data Analytics & Visualization
-- Microsoft Excel
+</td>
+
+<td>
+
+### 📊 Data Analytics
+- Excel
 - Power BI
-- Matplotlib
+- Data Cleaning
 - Data Visualization
 - Dashboard Development
 
-### 🧹 Data Processing
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis (EDA)
+</td>
+</tr>
 
-### 🔧 Tools
+<tr>
+<td>
+
+### 🐍 Python Libraries
+- Pandas
+- NumPy
+- Matplotlib
+- BeautifulSoup
+
+</td>
+
+<td>
+
+### 💻 Tools
 - Jupyter Notebook
-- Power Query
 - Git & GitHub
 - VS Code
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📊 Data Professional Survey Dashboard
+## 📈 Data Professional Survey Dashboard | Power BI
 
-**Tools:** Power BI | Power Query | Excel
+🔗 **Tools:** Power BI | Power Query | Excel
 
-### Project Overview
-Developed an interactive Power BI dashboard to analyze survey responses from data professionals across different countries, job roles, salaries, and programming preferences.
+**Description:**
+- Built an interactive dashboard analyzing survey responses from data professionals.
+- Cleaned and transformed raw survey data using Power Query.
+- Created KPI cards and interactive visualizations.
 
-### Key Features
-✅ Cleaned and transformed survey data using Power Query  
-✅ Created interactive dashboard visuals  
-✅ Built KPI cards for important metrics  
-✅ Analyzed:
-- Average salary trends
-- Job role distribution
-- Programming language preferences
-- Country-wise survey participation
-- Salary comparison across roles
-
-### Insights
-📌 Identified salary patterns among different data roles  
-📌 Compared programming language popularity  
-📌 Analyzed global participation of data professionals  
+**Key Insights:**
+- Analyzed salary trends across different job roles.
+- Compared programming language preferences.
+- Studied country-wise distribution of data professionals.
 
 ---
 
-## 🛒 Amazon Web Scraper & Price Analysis
+## 🛒 Amazon Web Scraper | Python
 
-**Tools:** Python | BeautifulSoup | Requests | Pandas | Matplotlib
+🔗 **Tools:** Python | BeautifulSoup | Requests | Pandas | Matplotlib
 
-### Project Overview
-Built a Python-based web scraping project to extract Amazon product information and perform price analysis.
+**Description:**
+- Developed a web scraper to extract product information from Amazon.
+- Collected product name, price, and other details.
+- Stored cleaned data into CSV format.
 
-### Key Features
-✅ Scraped product details automatically  
-✅ Cleaned and structured collected data  
-✅ Stored extracted data into CSV format  
-✅ Created price trend visualization using Matplotlib  
-
-### Insights
-📌 Automated product data collection  
-📌 Analyzed product pricing patterns  
-📌 Visualized price changes over time  
+**Key Insights:**
+- Automated product data collection.
+- Performed price analysis using visualization.
+- Created price trend charts using Matplotlib.
 
 ---
 
 # 📂 Repository Structure
-
 ```text
 Data_Analytics_Portfolio
 │
