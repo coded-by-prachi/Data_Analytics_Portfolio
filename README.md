@@ -119,7 +119,7 @@ Explore my projects and skills through my complete portfolio website.
 
 **GitHub:** [coded-by-prachi](https://github.com/coded-by-prachi)
 
-**Portfolio:** [Data Analytics Portfolio] (https://coded-by-prachi.github.io/Data_Analytics_Portfolio/)
+**LinkedIn:** https://www.linkedin.com/in/prachi-prajapati-3b956724b/
 ---
 
 ⭐ Thank you for visiting my portfolio!
